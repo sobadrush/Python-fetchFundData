@@ -37,3 +37,12 @@
 3. **fetchFund.py** → 沒整理過的版本
     可用 file = codecs.open("test.txt", "w", "utf-8") 寫出txt測試 or debug
 5. **fetchFund_simple.py** → 整理過的精簡版
+
+## 注意事項 & 修改方向
+<ul>
+    <li style="color:red">目前「查詢條件」僅以「商品國內發行日」寫死進行測試，可自行增加</li>
+    <li style="color:red">
+        可嘗試使用PyQt5套件建立Windows視窗應用程式接收USER輸入資料
+        (<a href="https://dotblogs.com.tw/zeus83157/2018/06/23/011440">Python建立圖形使用者介面的神兵利器-PyQt5)</a>
+    </li>
+</ul>
