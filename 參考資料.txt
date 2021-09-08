@@ -1,0 +1,19 @@
+https://www.learncodewithmike.com/2020/05/python-selenium-scraper.html
+
+## Is there a way to find an element by attributes in Python Selenium?
+https://stackoverflow.com/questions/28426645/is-there-a-way-to-find-an-element-by-attributes-in-python-selenium
+
+## driver.find_element_by_xpath("//*[contains(@id,'idF')]")
+https://stackoverflow.com/questions/45215992/how-to-get-img-src-in-string-in-selenium-using-python
+
+## Python/Selenium - Getting the element after an element
+https://stackoverflow.com/questions/49054985/python-selenium-getting-the-element-after-an-element
+
+## Write Excel
+https://www.geeksforgeeks.org/python-create-and-write-on-excel-file-using-xlsxwriter-module/
+
+## 如何使用 Chrome headless 無頭騎士模式教學
+http://python-learnnotebook.blogspot.com/2018/10/chrome-headless.html
+
+## Python scrape, skipping a <tr> tag and row
+https://stackoverflow.com/questions/41010120/python-scrape-skipping-a-tr-tag-and-row
